@@ -1,7 +1,10 @@
-Palmer Fliss
->- Head of the Molecular Assay Development & Engineering (MADE) Team at Shape Therapeutics
->- Mostly concerned with generating high quality, reproducible molecular readouts
->- Occasional dev-work in the characterization of novel/engineered nucleic acids
+# Palmer Fliss
+
+- Head of the Molecular Assay Development & Engineering (MADE) Team at Shape Therapeutics
+
+- Mostly concerned with generating high quality, reproducible molecular readouts
+
+- Occasional dev-work in the characterization of novel/engineered nucleic acids
 
 
 <!---
